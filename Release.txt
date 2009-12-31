@@ -1,1 +1,3 @@
 v1.2 Stable Release
+
+Bug fix 1 In progress - The problem is due to the gantt css issue
