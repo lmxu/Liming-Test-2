@@ -1,4 +1,4 @@
-v1.3 Stable Release
+v1.3.1 Stable Release
 
 Bug fix 1 In progress - The problem is due to the gantt css issue
 Bug fix 1 is done. Jackson Fixed the issue.
@@ -8,3 +8,5 @@ Exp 1 :  MarkItUp css issue fixed. But has preview issue
 
 
 Bug fix 2 Done
+
+Bug fix 3 Done
