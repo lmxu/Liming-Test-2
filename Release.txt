@@ -1,3 +1,4 @@
 v1.2 Stable Release
 
 Exp 1 :  MarkItup added, but has css issue
+Exp 1 :  MarkItUp css issue fixed. But has preview issue
