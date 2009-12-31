@@ -8,3 +8,5 @@ Exp 1 :  MarkItUp css issue fixed. But has preview issue
 
 
 Bug fix 2 Done
+
+Bug fix 3 Done
