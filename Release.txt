@@ -1,4 +1,4 @@
-v1.3.1 Stable Release
+v1.3 Expermient
 
 Bug fix 1 In progress - The problem is due to the gantt css issue
 Bug fix 1 is done. Jackson Fixed the issue.
@@ -11,3 +11,5 @@ Bug fix 2 Done
 Bug fix 3 Done
 
 Now chaning to v1.3.1
+
+v1.3 experiment added
