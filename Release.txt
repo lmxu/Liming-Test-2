@@ -11,3 +11,5 @@ Bug fix 2 Done
 Bug fix 3 Done
 
 Now chaning to v1.3.1
+
+It's Jackson touching up the v1.3.1 stable release
